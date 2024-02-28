@@ -1,4 +1,14 @@
 # Axon_Car_sales_project
+INTRODUCTION:
+Axon Classic Cars is the go-to place
+for classic car enthusiasts. They
+specialize in sourcing, restoring, and
+selling iconic vehicles from
+automotive history, always ensuring
+top quality, authenticity, and
+customer satisfaction.
+Axon needs our assistance to
+analyze their data for future growth
 
 PROBLEM STATEMENT:
 Axon Classic Cars, a small retailer
